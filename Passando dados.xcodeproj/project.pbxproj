@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2178841E26F8B71800F75AEA /* DetalhesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2178841D26F8B71800F75AEA /* DetalhesViewController.swift */; };
 		21D3A38D26F54BBF00961970 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21D3A38C26F54BBF00961970 /* AppDelegate.swift */; };
 		21D3A38F26F54BBF00961970 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21D3A38E26F54BBF00961970 /* SceneDelegate.swift */; };
 		21D3A39126F54BBF00961970 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21D3A39026F54BBF00961970 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2178841D26F8B71800F75AEA /* DetalhesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalhesViewController.swift; sourceTree = "<group>"; };
 		21D3A38926F54BBF00961970 /* Passando dados.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Passando dados.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		21D3A38C26F54BBF00961970 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		21D3A38E26F54BBF00961970 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				21D3A38C26F54BBF00961970 /* AppDelegate.swift */,
 				21D3A38E26F54BBF00961970 /* SceneDelegate.swift */,
 				21D3A39026F54BBF00961970 /* ViewController.swift */,
+				2178841D26F8B71800F75AEA /* DetalhesViewController.swift */,
 				21D3A39226F54BBF00961970 /* Main.storyboard */,
 				21D3A39526F54BC100961970 /* Assets.xcassets */,
 				21D3A39726F54BC100961970 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2178841E26F8B71800F75AEA /* DetalhesViewController.swift in Sources */,
 				21D3A39126F54BBF00961970 /* ViewController.swift in Sources */,
 				21D3A38D26F54BBF00961970 /* AppDelegate.swift in Sources */,
 				21D3A38F26F54BBF00961970 /* SceneDelegate.swift in Sources */,
